@@ -1,0 +1,146 @@
+Domaine Bachelet-Monnot,Maranges 1er Cru La Fussière 2016
+Domaine Bachelet-Monnot,Puligny-Montrachet 2016
+Domaine Bachelet-Monnot,Puligny-Montrachet 1er Cru Les Referts 2016
+Domaine Bachelet-Monnot,Puligny-Montrachet 1er Cru Les Folatières 2016
+Maison Albert Bichot,Domaine du Pavillon, Corton-Charlemagne Grand Cru 2016
+Maison Albert Bichot,Nuits-Saint-Georges 1er Cru Château-Gris 2016  monopole
+Maison Albert Bichot,Domaine du Pavillon, Corton Grand Cru Clos des Maréchaudes 2016
+Maison Albert Bichot,Domaine du Clos Frantin, Echézeaux Grand Cru 2016
+Domaine Henri Boillot,Volnay 1er Cru Les Caillerets 2016
+Domaine Henri Boillot,Puligny-Montrachet 1er Cru Clos de la Mouchère 2016  monopole
+Domaine Henri Boillot,Meursault 1er Cru Genevrières 2016
+Domaine Henri Boillot,Corton-Charlemagne Grand Cru 2016
+Bouchard Père & Fils,Corton-Charlemagne Grand Cru 2016
+Bouchard Père & Fils,Beaune 1er Cru Clos Saint Landry 2016
+Bouchard Père & Fils,Beaune 1er Cru Clos de la Mousse 2016
+Bouchard Père & Fils,Volnay 1er Cru Caillerets 2016
+Domaine Y. Clerget,Volnay 2016
+Domaine Y. Clerget,Volnay 1er Cru Clos du Verseuil 2016  monopole
+Domaine Y. Clerget,Volnay 1er Cru Les Caillerets 2016
+Domaine Y. Clerget,Clos Vougeot Grand Cru 2016
+Domaine Clos de la Chapelle,Beaune 1er Cru Les Reversées Blanc 2016
+Domaine Clos de la Chapelle,Beaune 1er Cru Champs Pimont 2016
+Domaine Clos de la Chapelle,Volnay 1er Cru Clos de la Chapelle 2016  monopole
+Domaine Clos de la Chapelle,Corton-Bressandes Grand Cru 2016
+Maison Joseph Drouhin,Beaune 1er Cru Clos des Mouches Blanc 2016
+Maison Joseph Drouhin,Chassagne-Montrachet 1er Cru Morgeot “Marquis de Laguiche” 2016
+Maison Joseph Drouhin,Beaune 1er Cru Clos des Mouches Rouge 2016
+Maison Joseph Drouhin,Chambertin-Clos de Bèze Grand Cru 2016
+Domaine David Duband,Hautes Côtes de Nuits Rouge “Louis Auguste” 2016
+Domaine David Duband,Gevrey-Chambertin 2016
+Domaine David Duband,Nuits-Saint-Georges 1er Cru Aux Thorey 2016
+Domaine David Duband,Charmes-Chambertin Grand Cru 2016
+Domaine de Fa,Beaujolais “En Besset” 2016
+Domaine de Fa,Fleurie “Roche Guillon” 2016
+Domaine de Fa,Saint-Amour 2016
+Domaine William Fèvre,Chablis 1er Cru Vaillons 2016
+Domaine William Fèvre,Chablis 1er Cru Vaulorent 2016
+Domaine William Fèvre,Chablis Grand Cru Bougros “Côte Bouguerots” 2016
+Domaine William Fèvre,Chablis Grand Cru Les Clos 2016
+Domaine Didier Fornerol,Côte de Nuits Villages Blanc 2016
+Domaine Didier Fornerol,Bourgogne Rouge 2016
+Domaine Didier Fornerol,Côte de Nuits Villages Rouge 2016
+Domaine Didier Fornerol,Côte de Nuits Villages “La Rue des Foins” 2016
+Domaine Vincent Girardin,Meursault 1er Cru Les Charmes 2016
+Domaine Vincent Girardin,Meursault 1er Cru Les Genevrières 2016
+Domaine Vincent Girardin,Meursault 1er Cru Les Perrières 2016
+Domaine Vincent Girardin,Chevalier-Montrachet Grand Cru 2016
+Domaine Henri Gouges,Nuits-Saint-Georges 1er Cru Les Pruliers 2016
+Domaine Henri Gouges,Nuits-Saint-Georges 1er Cru Les Vaucrains 2016
+Domaine Henri Gouges,Nuits-Saint-Georges 1er Cru Clos des Porrets Saint Georges 2016
+Domaine Henri Gouges,Nuits-Saint-Georges 1er Cru Les Saint Georges 2016
+Domaine Heitz-Lochardet,Chassagne-Montrachet 1er Cru La Maltroie 2016
+Domaine Heitz-Lochardet,Meursault 1er Cru Perrières 2016
+Domaine Heitz-Lochardet,Pommard 1er Cru Rugiens 2016
+Domaine Heitz-Lochardet,Pommard 1er Cru Clos des Poutures 2016  monopole
+Domaine Hudelot-Noëllat,Vosne-Romanée 2016
+Domaine Hudelot-Noëllat,Vougeot 1er Cru Les Petit Vougeot 2016
+Domaine Hudelot-Noëllat,Clos de Vougeot Grand Cru 2016
+Domaine Hudelot-Noëllat,Romanée-Saint-Vivant Grand Cru 2016
+Maison Louis Jadot,Domaine Louis Jadot, Meursault 1er Cru Genevrières 2016
+Maison Louis Jadot,Domaine des Héritiers Louis Jadot, Corton-Charlemagne Grand Cru 2016
+Maison Louis Jadot,Domaine Gagey, Nuits-Saint-Georges 1er Cru Les Boudots 2016
+Maison Louis Jadot,Domaine des Héritiers Louis Jadot, Corton-Pougets Grand Cru 2016
+Domaine Antoine Jobard,Meursault “En La Barre” 2016
+Domaine Antoine Jobard,Meursault 1er Cru Poruzots 2016
+Domaine Antoine Jobard,Meursault 1er Cru Genevrières 2016
+Domaine Gérard Julien & Fils,Côte de Nuits Villages 2016
+Domaine Gérard Julien & Fils,Nuits-Saint-Georges 2016
+Domaine Gérard Julien & Fils,Nuits-Saint-Georges “Aux Saint Juliens” 2016
+Domaine Gérard Julien & Fils,Nuits-Saint-Georges 1er Cru Les Bousselots 2016
+Domaine des Comtes Lafon,Meursault “Clos de la Barre” 2016
+Domaine des Comtes Lafon,Meursault 1er Cru Charmes 2016
+Domaine des Comtes Lafon,Volnay 1er Cru Santenots du Milieu 2016
+Domaine des Comtes Lafon,Dominique Lafon, Beaune 1er Cru Vignes Franches 2016
+Domaine Lamy-Pillot,Saint-Aubin 1er Cru Charmois 2016
+Domaine Lamy-Pillot,Chassagne-Montrachet “Pot Bois” 2016
+Domaine Lamy-Pillot,Chassagne-Montrachet 1er Cru Morgeot 2016
+Domaine Lamy-Pillot,Chassagne-Montrachet 1er Cru Boudriotte Rouge 2016
+Domaine Leflaive,Puligny-Montrachet 2016
+Domaine Leflaive,Meursault 1er Cru Sous le Dos d’Ane 2016
+Domaine Leflaive,Puligny-Montrachet 1er Cru Le Clavoillon 2016
+Domaine Leflaive,Puligny-Montrachet 1er Cru Les Pucelles 2016
+Domaine Benjamin Leroux,Saint-Romain Blanc “Sous le Château” 2016
+Domaine Benjamin Leroux,Meursault 1er Cru Genevrières Dessous 2016
+Domaine Benjamin Leroux,Vosne-Romanée 2016
+Domaine Benjamin Leroux,Mazoyères-Chambertin 2016
+Domaine du Comte Liger-Belair,Vosne-Romanée “La Colombière” 2016
+Domaine du Comte Liger-Belair,Vosne-Romanée “Clos du Château” 2016  monopole
+Domaine du Comte Liger-Belair,Vosne-Romanée 1er Cru Aux Reignots 2016
+Domaine du Comte Liger-Belair,Echézeaux Grand Cru 2016
+Domaine Hubert Lignier,Morey-Saint-Denis “Trilogie” 2016
+Domaine Hubert Lignier,Morey-Saint-Denis 1er Cru Vieilles Vignes 2016
+Domaine Hubert Lignier,Morey-Saint-Denis 1er Cru Les Chaffots 2016
+Domaine Hubert Lignier,Clos de la Roche Grand Cru 2016
+Pierre Meurgey,Mâcon-Uchizy 2016
+Pierre Meurgey,Viré-Clessé Vieilles Vignes 2016
+Pierre Meurgey,Pouilly-Fuissé Vieilles Vignes 2016
+Domaine Bernard Moreau & Fils,Saint-Aubin 1er Cru En Remilly 2016
+Domaine Bernard Moreau & Fils,Chassagne-Montrachet 2016
+Domaine Bernard Moreau & Fils,Chassagne-Montrachet 1er Cru La Maltroie 2016
+Domaine Bernard Moreau & Fils,Chassagne-Montrachet 1er Cru Morgeot 2016
+Domaine Christian Moreau & Fils,Chablis 2017
+Domaine Christian Moreau & Fils,Chablis 1er Cru Vaillon 2017
+Domaine Christian Moreau & Fils,Chablis Grand Cru Les Clos “Clos des Hospices” 2014 en magnum
+Domaine Christian Moreau & Fils,Chablis Grand Cru Les Clos “Clos des Hospices” 2012 en magnum
+Domaine Marc Morey,Chassagne-Montrachet 2016
+Domaine Marc Morey,Chassagne-Montrachet 1er Cru Morgeot 2016
+Domaine Marc Morey,Chassagne-Montrachet 1er Cru En Virondot 2016
+Domaine Marc Morey,Puligny-Montrachet 1er Cru Les Pucelles 2016
+Domaine Mugneret-Gibourg,Vosne-Romanée 2016
+Domaine Mugneret-Gibourg,Nuits-Saint-Georges 1er Cru Les Chaignots 2016
+Domaine Mugneret-Gibourg,Ruchottes-Chambertin Grand Cru 2016
+Domaine Mugneret-Gibourg,Clos Vougeot Grand Cru 2016
+Domaine Nicolas Rossignol,Bourgogne Pinot Noir 2016
+Domaine Nicolas Rossignol,Pommard 1er Cru 2016
+Domaine Nicolas Rossignol,Volnay 1er Cru Cailleret 2016
+Domaine Nicolas Rossignol,Volnay 1er Cru Santenots 2016
+Maison MC Thiriet,Bourgogne Chardonnay “Cuvée Confidentielle” 2017
+Maison MC Thiriet,Côte de Nuits Villages 2017
+Maison MC Thiriet,Bourgogne Rouge “Les Blanches” 2017
+Bernard Zito,Hautes Côtes de Nuits Les Dames Huguettes Blanc 2016
+Bernard Zito,Vosne-Romanée Les Vigneux 2016
+Bernard Zito,Beaune 1er Cru Les Tuvilains 2017
+Bernard Zito,Savigny-lès-Beaune Ez Conardises 2017
+Commune de Meursault,Bernard Delagrange, Pommard 1er cru Les Chanlains 2016
+Commune de Meursault,Berthelemot, Meursault Tillets 2016
+Commune de Meursault,Darnat, Meursault 1er Cru Clos Richemont 2016
+Commune de Meursault,Fichet, Meursault le Tesson 2016
+Commune de Meursault,Genot Boulanger, Meursault 1er Cru Bouchères 2016
+Commune de Meursault,Henri Germain, Meursault 2016
+Commune de Meursault,Latour Giraud, Meursault 1er Cru Genevrières 2016
+Commune de Meursault,Marc Gauffroy, Meursault 1er Cru Charmes 2016
+Commune de Meursault,Michel Bouzereau, Meursault 1er Cru Charmes 2016
+Commune de Meursault,Mikulski, Meursault 1er Cru Poruzot 2016
+Commune de Meursault,Patrick Javillier, Meursault les Clousots 2016
+Commune de Meursault,Philippe Bouzereau, Meursault 1er Cru Charmes 2016
+Commune de Meursault,Rémi Jobard, Meursault 1er Cru Genevrières 2016
+Commune de Meursault,Sylvain Dussort, Meursault Limozin 2016
+Commune de Meursault,Vincent Bouzereau, Meursault 1er Cru Poruzot 2016
+Commune de Meursault,Vincent Latour, Meursault 1er Cru Perrières 2016
+Commune de Meursault,Xavier Monnot, Meursault 1er cru Charmes 2016
+Commune de Meursault,Pierre Morey, Meursault les Tessons 2016
+Champagne Salon & Champagne Delamotte,Delamotte Brut
+Champagne Salon & Champagne Delamotte,Delamotte Blanc de Blancs
+Champagne Salon & Champagne Delamotte,Delamotte Blanc de Blancs 2008
+Champagne Salon & Champagne Delamotte,Salon 2007
