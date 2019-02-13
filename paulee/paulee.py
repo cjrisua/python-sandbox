@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 
-with open("Paulee.html") as page:
+with open("./paulee/Paulee.html") as page:
     soup = BeautifulSoup(page, "html.parser")
 
 merchants={}
