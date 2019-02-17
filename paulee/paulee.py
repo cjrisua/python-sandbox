@@ -6,24 +6,74 @@ with open("./paulee/Paulee.html") as page:
 
 merchants={}
 
-villages = { 
-    "Gevrey-Chambertin" : ["Chambertin-Clos de Bèze","Charmes-Chambertin","Chapelle-Chambertin","Griotte-Chambertin","Le Chambertin","Latricières-Chambertin","Mazis-Chambertin","Ruchottes-Chambertin"],
-    "Morey-St.Denis" : ["Clos de la Roche","Clos de Tart","Clos des Lambrays","Clos Saint Denis"],
-    "Chambolle-Musigny" : ["Bonnes Mares","Le Musigny","Clos de Vougeot","Clos Vougeot"],
-    "Flagey-Echézeaux" : ["Echézeaux","Grands Echézeaux"],
-    "Vosne-Romanée" : ["La Grande Rue","La Romanée","La Tâche" ,"Richebourg","Romanée-Conti","Romanée-Saint-Vivant"],
-    "Côte de Beaune" : ["Corton-Charlemagne","Le Corton","Corton"],
-    "Puligny-Montrachet" : ["Bâtard-Montrachet","Bienvenues-Bâtard-Montrachet","Chevalier-Montrachet","Le Montrachet"],
-    "Chablis" : [],
-    "Beaujolais" : [],
-    "Bourgogne" : [],
-    "Chassagne-Montrachet" : []
- }
+wineclimates = {
+    "Chablis" : 
+        { 
+            "Grand Cru": ["Blanchot"," Bougros"," Grenouilles"," La Moutonne"," Les Clos"," Preuses"," Valmur"," Vaudesir"],
+            "Premier Cru" :['Beauroy','Berdiot','Beugnons','Butteaux','Chapelot','Chatains','Chaume de Talvat','Cote de Brechain','Cote de Cuissy','Cote de Fontenay','Cote de Jouan','Cote de Lechet','Cote de Savant','Cote de Vaubarousse','Cote des Pres Girots','Forets','Fourchaume','L\'Homme Mort','Les Beauregards','Les Epinottes','Les Fourneaux','Les Lys','Melinots','Mont de Milieu','Montee de Tonnerre','Montmains','Morein','Pied d\'Aloup','Roncieres','Sechet','Troesmes','Vaillons','Vau Ligneau','Vau Ragons','Vau de Vey','Vaucoupin','Vaugiraut','Vaulorent','Vaupulent','Vosgros']
+        },
+    "Côte de Beaune" :
+        {
 
-def print_merchants():
+            'Aloxe-Corton' : [],
+            'Auxey-Duresses' : [],
+            'Beaune': [],
+            'Blagny' : [],
+            'Chassagne-Montrachet' : [],
+            'Chorey-les-Beaune' : [],
+            'Corton Grand Cru' : [],
+            'Cote de Beaune-Villages' : [],
+            'Ladoix' : [],
+            'Maranges' : ['1er Cru Clos de la Boutiere','1er Cru Clos de la Fussiere','1er Cru La Fussière','1er Cru Le Clos des Loyeres','1er Cru Le Clos des Rois','1er Cru Le Croix Moines','1er Cru Les Clos Roussots'],
+            'Meursault' : [],
+            'Monthelie' : [],
+            'Pernand-Vergelesses' : [],
+            'Pommard' : [],
+            'Puligny-Montrachet' : ['Bâtard-Montrachet','Bienvenues-Bâtard-Montrachet','Chevalier-Montrachet','Le Montrachet','Puligny-Montrachet\\s*(1er Cru)?'],
+            'Saint-Aubin' : [],
+            'Saint-Romain' : [],
+            'Santenay' : [],
+            'Savigny-les-Beaune' : [],
+            'Volnay' : []
+        },
+    "Côte de Nuits" :
+        {
+            "Gevrey-Chambertin" : ["Chambertin-Clos de Bèze","Charmes-Chambertin","Chapelle-Chambertin","Griotte-Chambertin","Le Chambertin","Latricières-Chambertin","Mazis-Chambertin","Ruchottes-Chambertin"],
+            "Morey-St.Denis" : ["Clos de la Roche","Clos de Tart","Clos des Lambrays","Clos Saint Denis"],
+            "Chambolle-Musigny" : ["Bonnes Mares","Le Musigny","Clos de Vougeot","Clos Vougeot"],
+            "Flagey-Echézeaux" : ["Echézeaux","Grands Echézeaux"],
+            "Vosne-Romanée" : ["La Grande Rue","La Romanée","La Tâche" ,"Richebourg","Romanée-Conti","Romanée-Saint-Vivant"],
+            "Côte de Beaune" : ["Corton-Charlemagne","Le Corton","Corton"],
+            "Chablis" : [],
+            "Beaujolais" : [],
+            "Bourgogne" : [],
+            "Chassagne-Montrachet" : []
+        }
+}
+
+
+def get_wine_climates():
+    #chablis
+    climate_list=[]
+    for region in wineclimates:
+        for village in wineclimates[region]:
+            climates=wineclimates[region]
+            for climate in climates:
+                climatecollection=climates[climate]
+                for name in climatecollection:
+                    winename = "{2}:{1}:({0})?".format(region.strip(),village.strip(),name.strip())
+                    climate_list.append('\s*'.join(winename.split(':')[::-1]))
+    return climate_list
+
+
+def print_merchants(climates):
     for key, value in merchants.items():
         for m in value:
-            print("{0},{1}".format(key,m))
+            match = list(filter(lambda name: re.match(name,m) , climates))
+            if len(match) > 0:
+                print("Match")
+                break
+
 
 
 def scann_page():
@@ -58,9 +108,8 @@ def scann_page():
                                 found = True
                                 #print("Famus Parcel {0}=>{1}".format(parcel,villages[parcel][0]))
                                 break
-                        if found is False:
-                            print("--{0}".format(winename))
-
+                        #if found is False:
+                        #    print("--{0}".format(winename))
                     terroircollection.append(winename)
                 if len(terroircollection) > 0:
                     merchants.update({p.string:terroircollection})
@@ -68,5 +117,6 @@ def scann_page():
                 pass
     
 if __name__ == "__main__":
+    climates = get_wine_climates()
     scann_page()
-    #print_merchants()
+    print_merchants(climates)
