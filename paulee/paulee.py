@@ -13,7 +13,7 @@ villages = {
     "Flagey-Echézeaux" : ["Echézeaux","Grands Echézeaux"],
     "Vosne-Romanée" : ["La Grande Rue","La Romanée","La Tâche" ,"Richebourg","Romanée-Conti","Romanée-Saint-Vivant"],
     "Côte de Beaune" : ["Corton-Charlemagne","Le Corton","Corton"],
-    "Puligny-Montrachet" : ["Bâtard-Montrachet","Bienvenues-Bâtard-Montrachet","Chevalier-Montrachet","Le Montrachet"]
+    "Puligny-Montrachet" : ["Bâtard-Montrachet","Bienvenues-Bâtard-Montrachet","Chevalier-Montrachet","Le Montrachet"],
     "Chablis" : [],
     "Beaujolais" : [],
     "Bourgogne" : [],
